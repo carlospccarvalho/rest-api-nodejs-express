@@ -1,6 +1,6 @@
 # rest-api-nodejs-express
 
-Template of a Rest API NodeJs Express
+Template of a Rest API NodeJs Express. Example of a CRUD with MongoDB.
 
 ## Modules
 
