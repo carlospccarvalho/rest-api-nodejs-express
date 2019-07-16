@@ -4,9 +4,9 @@ Template of a Rest API NodeJs Express. Example of a CRUD with MongoDB.
 
 ## Modules
 
-* [Json Web Token](https://jwt.io/) - Used to generate token for authentication
+* [Json Web Token](https://jwt.io/)
 * [Morgan](https://www.npmjs.com/package/morgan/)
-* [Mongoose](https://www.npmjs.com/package/mongoose/) - Used to connect MongoDB
+* [Mongoose](https://www.npmjs.com/package/mongoose/)
 * [Body Parser](https://www.npmjs.com/package/body-parser)
 * [Cors](https://www.npmjs.com/package/cors)
 * [Bcrypt](https://www.npmjs.com/package/bcrypt)
