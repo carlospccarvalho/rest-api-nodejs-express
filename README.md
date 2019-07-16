@@ -4,15 +4,14 @@ Template of a Rest API NodeJs Express. Example of a CRUD with MongoDB.
 
 ## Modules
 
-* [Json Web Token](https://maven.apache.org/) - Dependency Management
-* [Morgan](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Mongoose](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Body Parser](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Cors](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Bcrypt](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Joi](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Passport Facebook](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Passport Google](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Json Web Token](https://jwt.io/) - Used to generate token for authentication
+* [Morgan](https://www.npmjs.com/package/morgan/)
+* [Mongoose](https://www.npmjs.com/package/mongoose/) - Used to connect MongoDB
+* [Body Parser](https://www.npmjs.com/package/body-parser)
+* [Cors](https://www.npmjs.com/package/cors)
+* [Bcrypt](https://www.npmjs.com/package/bcrypt)
+* [Joi](https://github.com/hapijs/joi)
+* [Passport](http://www.passportjs.org/)
 
 ## Installation
 
